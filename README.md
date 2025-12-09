@@ -7,10 +7,12 @@ O Grão Digital é uma plataforma desenvolvida para modernizar o Programa de Aqu
 
 
 🎯 Objetivo
+
 Facilitar o controle e o acompanhamento da distribuição de sementes, reduzindo a burocracia administrativa, melhorando a logística e fornecendo dados confiáveis para planejamento, monitoramento e avaliação do programa.
 
 
  🚨 Problema
+ 
 Atualmente, o programa enfrenta:
 - Atrasos na distribuição das sementes  
 - Processos burocráticos e pouco padronizados  
@@ -23,6 +25,7 @@ Esses problemas afetam diretamente a produção e a renda do agricultor familiar
 
 
  💡 Solução
+ 
 O Grão Digital oferece uma plataforma digital que:
 - Centraliza informações do processo de distribuição  
 - Permite acompanhar as etapas da entrega de sementes  
@@ -33,6 +36,7 @@ O Grão Digital oferece uma plataforma digital que:
 
 
  👥 Público-alvo
+ 
 - Agricultores familiares participantes do programa  
 - Técnicos responsáveis pela distribuição e acompanhamento  
 - Gestores públicos envolvidos na administração do IPA  
@@ -40,6 +44,7 @@ O Grão Digital oferece uma plataforma digital que:
 
 
 🧭 Benefícios
+
 - Maior eficiência na distribuição  
 - Mais transparência nas etapas do processo  
 - Redução da burocracia  
@@ -49,10 +54,12 @@ O Grão Digital oferece uma plataforma digital que:
 
 
 🛠️ Status do projeto
+
 🚧 Projeto acadêmico em desenvolvimento (PI – Projeto Integrador).
 
 
 👨‍💻 Equipe de Desenvolvimento 
+
 Carolline Barbosa - https://github.com/Carolline08
 Jai Santos - https://github.com/azulejai
 Marcelly Arcanjo - https://github.com/arcmarcelly
