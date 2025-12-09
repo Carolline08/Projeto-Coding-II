@@ -1,6 +1,7 @@
 🌾 Grão Digital
 
-*Sobre o projeto*
+**Sobre o projeto**
+
 O Grão Digital é uma plataforma desenvolvida para modernizar o Programa de Aquisição e Distribuição de Sementes do IPA. O projeto busca tornar os processos mais eficientes, transparentes e organizados, apoiando a gestão pública e fortalecendo o agricultor familiar.
 
 
