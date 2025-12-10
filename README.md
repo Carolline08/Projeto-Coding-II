@@ -18,7 +18,7 @@ O sistema permite:
 
 O projeto foi desenvolvido com foco em **facilidade de uso**, **rastreabilidade** e **eficiência operacional**.
 
----
+----
 
 ## Tecnologias Utilizadas
 
@@ -96,5 +96,6 @@ O projeto foi desenvolvido por:
 - **Maria Clara Moutinho**  
 
 ---
+
 
 
