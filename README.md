@@ -1,6 +1,6 @@
-# GraoDigital - Sistema de Aquisição e Gestão de Sementes do IPA
+# GrãoDigital - Sistema de Aquisição e Gestão de Sementes do IPA
 
-(<img width="219" height="75" alt="Image" src="https://github.com/user-attachments/assets/ef679d2b-c83b-40b0-ab8f-ad2264762bcd" />)
+<img width="219" height="75" alt="Image" src="https://github.com/user-attachments/assets/ef679d2b-c83b-40b0-ab8f-ad2264762bcd" />
 
 [![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)](https://reactjs.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen?logo=spring)](https://spring.io/projects/spring-boot)
